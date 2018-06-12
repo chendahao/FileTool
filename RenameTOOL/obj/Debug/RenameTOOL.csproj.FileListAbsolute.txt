@@ -1,0 +1,13 @@
+E:\c#again\RenameTOOL\RenameTOOL\obj\Debug\RenameTOOL.Form1.resources
+E:\c#again\RenameTOOL\RenameTOOL\obj\Debug\FileBrowser.Properties.Resources.resources
+E:\c#again\RenameTOOL\RenameTOOL\obj\Debug\RenameTOOL.csproj.GenerateResource.Cache
+E:\c#again\RenameTOOL\RenameTOOL\obj\Debug\FileBrowser.TrustInfo.xml
+E:\c#again\RenameTOOL\RenameTOOL\obj\Debug\FileBrowser.exe
+E:\c#again\RenameTOOL\RenameTOOL\obj\Debug\FileBrowser.pdb
+E:\c#again\RenameTOOL\RenameTOOL\bin\Debug\FileBrowser.exe.config
+E:\c#again\RenameTOOL\RenameTOOL\bin\Debug\FileBrowser.exe.manifest
+E:\c#again\RenameTOOL\RenameTOOL\bin\Debug\FileBrowser.application
+E:\c#again\RenameTOOL\RenameTOOL\bin\Debug\FileBrowser.exe
+E:\c#again\RenameTOOL\RenameTOOL\bin\Debug\FileBrowser.pdb
+E:\c#again\RenameTOOL\RenameTOOL\obj\Debug\FileBrowser.exe.manifest
+E:\c#again\RenameTOOL\RenameTOOL\obj\Debug\FileBrowser.application
