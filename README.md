@@ -1,4 +1,2 @@
 # FileTool
-winfrom app
-
-for fun
+.net4.5
